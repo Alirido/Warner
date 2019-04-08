@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/display_speed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textAlignment="center"
+        android:layout_centerInParent="true"
+        android:textSize="100sp"
+
+        />
+
+    <TextView
+        android:id="@+id/speed_warner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You are exceeding the speed limit!"
+        android:layout_below="@+id/display_speed"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20sp"
+        android:paddingTop="40dp"
+        android:visibility="invisible"
+        />
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="?android:attr/windowBackground"
+        app:menu="@menu/bottom_navigation"
+        />
+
+
+</RelativeLayout>

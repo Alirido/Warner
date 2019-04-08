@@ -1,0 +1,108 @@
+{
+  "project_info": {
+
+    "project_number": "11101255434",
+    "firebase_url": "https://pbdandroid-8a924.firebaseio.com",
+    "project_id": "pbdandroid-8a924",
+    "storage_bucket": "pbdandroid-8a924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129701988550:android:7add5cd697c1bde7",
+        "android_client_info": {
+          "package_name": "com.daraa.androidwarner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129701988550-hlkc2s5f6h0r9sl99pdo9mbj7uvij813.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daraa.androidwarner",
+            "certificate_hash": "3313041554bf04f3f460b5d738958ed34ad9b95e"
+          }
+        },
+        {
+          "client_id": "129701988550-fuoc19uurj1qkvljapk4hr4cqa1vg2i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daraa.androidwarner",
+            "certificate_hash": "6917dd3c6c4818d2075117382eac2e7bf2530cc4"
+          }
+        },
+        {
+          "client_id": "129701988550-qfgn6ok3mqldvips6stgtrad7gu3tukj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUm6rxP6Rcb1q01oqkBSgx_baV69CXwys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129701988550-qfgn6ok3mqldvips6stgtrad7gu3tukj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129701988550:android:201137242edcba20",
+        "android_client_info": {
+          "package_name": "com.daraa.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129701988550-du90dep3qt6ee1bnhskq4goscmekl5ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daraa.myapplication",
+            "certificate_hash": "3313041554bf04f3f460b5d738958ed34ad9b95e"
+          }
+        },
+        {
+          "client_id": "129701988550-qfgn6ok3mqldvips6stgtrad7gu3tukj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUm6rxP6Rcb1q01oqkBSgx_baV69CXwys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129701988550-qfgn6ok3mqldvips6stgtrad7gu3tukj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
